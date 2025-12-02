@@ -1,6 +1,6 @@
 This repository contains the data-generating parameters for the simulation studies of the `manuscript <https://doi.org/10.1007/s41237-025-00271-8>`_
 
-  Eric Alan Wayman, Steven Andrew Culpepper, Jeff Douglas, and Jesse Bowers. "A Restricted Latent Class Model with Polytomous Attributes and Respondent-Level Covariates." *Behaviormetrika*, 2025.
+  Eric Alan Wayman, Steven Andrew Culpepper, Jeff Douglas, and Jesse Bowers. "A restricted latent class model with polytomous attributes and respondent-level covariates." *Behaviormetrika*, 2025.
 
 The first simulation study has fifteen "situations," namely, combinations of J, K, L, and rho. Each situation is evaluated with respect to three sample sizes, yielding 45 scenarios. Parameters for each of the 15 situations along with a description of the situation in JSON format are provided.
 
